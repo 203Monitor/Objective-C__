@@ -12,7 +12,7 @@
 
 @property (nonatomic,strong) NSMutableArray *attributesArray;   //存放所有cell的布局属性
 @property (nonatomic,strong) NSMutableArray *allColumnMaxYArray; //所有列的高度
-@property (nonatomic,assign) CGFloat contentSizeHeight;//内容的高度
+@property (nonatomic,assign) CGFloat contentSizeHeight;   //内容的高度
 
 @end
 
